@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Opoku Isaiah Clifford
 =============================================================================================================================================
 
-Javascript full-stuck Devoloper
+JavaScript full-stuck developer
 -------------------------------
 
 I am a JavaScript developer with expertise in Node.js, React.js, and React Native. With experience in both front-end and back-end development, I am skilled in building scalable and user-friendly applications for the web and mobile platforms.
