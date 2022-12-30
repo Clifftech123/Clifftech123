@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Opoku Isaiah Clifford
 =============================================================================================================================================
 
-JavaScript full-stuck developer
+Full Stack Typescript Developer
 -------------------------------
 
-I am a JavaScript developer with expertise in Node.js, React.js, and React Native. With experience in both front-end and back-end development, I am skilled in building scalable and user-friendly applications for the web and mobile platforms.
+I am a Full Stack Typescript developer with a strong background in web development and expertise in Node.js and React.js. I have a passion for creating intuitive and efficient software, and am skilled in using Typescript to write scalable and maintainable code. In addition, I have a thorough understanding of the React.js ecosystem, including Redux, which allows me to create interactive and reactive front-end interfaces. My skills in both front-end and back-end development enable me to build scalable and user-friendly applications for the web. I am a team player and enjoy collaborating with others to find creative solutions to challenging problems. With my strong technical skills and ability to work well in a team, I am confident in my ability to contribute to any project and bring value to your organization.
 
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
-* 🤝  I'm open to collaborating on Javascript Project
+* 🤝  I'm open to collaborating on Typescript Project
 * ⚡  I'm passionate about software development
 
 <a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer"><img
@@ -19,7 +19,7 @@ src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-
 
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
