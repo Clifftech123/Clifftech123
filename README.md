@@ -6,18 +6,12 @@ Full Stack JavaScript Developer with expertise in the MERN stack
 
 I am a Full Stack JavaScript Developer with experience in technologies such as MongoDB, Express.js, React.js, and Node.js. I have a strong foundation in web application development, and am skilled at using these technologies to build scalable and efficient applications. Whether it's working with a NoSQL database like MongoDB or building a server with Node.js and Express.js, I am comfortable working across the full stack. I am always looking to learn and grow as a developer, and I am excited to continue building my skills and expanding my knowledge.
 
-* ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
-* 🤝  I'm open to collaborating on JavaScript Project
-* ⚡  I'm passionate about software development
-
-<a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Clifftech123?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.twitter.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a>
-
-### Skills
-
-
+*   ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
+*   🤝  I'm open to collaborating on JavaScript Project
+*   ⚡  I'm passionate about software development<a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/Clifftech123?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.twitter.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
+                /></a>### Skills 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -35,22 +29,21 @@ src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/Clifford#0530" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@Clifftech.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/isaiah-clifford-opoku-a506a51b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Clifftech123"><img src="https://github-readme-stats.vercel.app/api?username=Clifftech123&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Clifftech123's GitHub stats" /></a>
-
-<a href="http://www.github.com/Clifftech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Clifftech123&stroke=ffffff&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Clifftech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clifftech123&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://discord.com/users/Clifford#0530" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://hashnode.com/@Clifftech.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/isaiah-clifford-opoku-a506a51b2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/Clifftech123"><img src="https://github-readme-stats.vercel.app/api?username=Clifftech123&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Clifftech123's GitHub stats" /></a><a
+                      href="http://www.github.com/Clifftech123"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=Clifftech123&stroke=ffffff&background=0f172a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Clifftech123" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clifftech123&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
