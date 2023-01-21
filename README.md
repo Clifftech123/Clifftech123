@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaiah Clifford Opoku
 =============================================================================================================================================
 
-Full Stack JavaScript Developer with expertise in the MERN stack
-----------------------------------------------------------------
+Full Stack Typescript Developer with expertise React , NestJS, and Node.js.
+---------------------------------------------------------------------------
 
 Proficient Full Stack developer with experience in technologies such as Typescript, React and NestJS, and Node.js. Strong foundation in web application development and skilled in building scalable and efficient apps using these technologies. Adept at working across the full stack, and continuously seeking to learn and grow as a developer, eager to build on my skills and expand my knowledge.
 
