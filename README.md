@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaiah Clifford Opoku
 =============================================================================================================================================
 
-Full Stack Developer with experience in TypeScript and the MERN stack
----------------------------------------------------------------------
+Full Stack Developer with experience in TypeScript, React, Next.js, and NestJS.
+-------------------------------------------------------------------------------
 
-Full Stack Developer with experience in TypeScript and the MERN stack. Strong problem-solving skills and ability to work well in a team environment. Looking for new opportunities to build innovative and high-performing web applications.
+Full Stack Developer with experience in TypeScript, React, Next.js, and NestJS. Passionate about building efficient and scalable web applications. Proficient in problem-solving and working in a team environment. Always eager to learn new technologies and improve my skills.
 
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript Project
@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
