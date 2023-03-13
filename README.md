@@ -1,5 +1,20 @@
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+
+
+
+
+ <a href="yhttps://github.com/clifftech123/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaiah Clifford Opoku
 =============================================================================================================================================
+
+
+
+
 
 Software Developer | MERN Stack | Typescript
 --------------------------------------------
@@ -16,6 +31,8 @@ I am a software developer with expertise in the MERN stack (MongoDB, Express.js,
 src="https://img.shields.io/github/followers/Clifftech123?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.twitter.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
 /></a>
+
+
 
 ### Skills
 
