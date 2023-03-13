@@ -7,7 +7,7 @@ Software Developer | MERN Stack | Typescript
 I am a software developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and experience using TypeScript. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
 
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [https://portfolio-isaiah-cyan.vercel.app/](http://portfolio-isaiah-cyan.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-isaiah-eight.vercel.app/](https://portfolio-isaiah-eight.vercel.app/)
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 🤝  I'm open to collaborating on JavaScript Project
 * ⚡  I'm passionate about software development
