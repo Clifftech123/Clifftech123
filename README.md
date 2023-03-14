@@ -18,7 +18,7 @@ I am a software developer with expertise in the MERN stack (MongoDB, Express.js,
 * 🌍  I'm based in Gahana
 * 🖥️  See my portfolio at [https://portfolio-isaiah-eight.vercel.app/](http://portfolio-isaiah-eight.vercel.app/)
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
-* 🤝  I'm open to collaborating on Jvavascript and TypeScript Projects
+* 🤝  I'm open to collaborating on Javascript and TypeScript Projects
 
 ### Skills
 
