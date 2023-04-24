@@ -54,3 +54,16 @@ I am a software developer with expertise in the MERN stack (MongoDB, Express.js,
 
 <a href="http://www.github.com/Clifftech123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Clifftech123&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
+- - -
+
+ 
+
+## Ready my blog posts 
+
+<!-- BLOG-POST-LIST:START -->
+
+[Boost Your Coding Game with Git and GitHub Mastery](https://dev.to/cliff123tech/boost-your-coding-game-with-git-and-github-mastery-1c2o)
+[Object Oriented Programming with Typescript](https://dev.to/cliff123tech/oop-typescript-jk4)
+
+<!-- BLOG-POST-LIST:END -->
+
