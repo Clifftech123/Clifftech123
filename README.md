@@ -10,10 +10,23 @@
 Hi 👋 My name is Opoku Isaiah Clifford
 ======================================
 
-Software Developer | MERN Stack | Typescript
+Backend Developer  |  TypeScript  |  NodeJS |NestJS
 --------------------------------------------
+I'm a dedicated Backend Developer with expertise in TypeScript, NodeJS, and NestJS. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
 
-I am a software developer with expertise in the MERN stack (MongoDB, Express.js, React, Node.js) and experience using TypeScript. I have a strong understanding of web development and am able to build efficient and scalable full-stack applications. I am highly motivated and continually seeking to improve my skills and stay current with the latest technologies.
+### 💻 My tech stack includes:
+
+- TypeScript
+- NodeJS
+- NestJS
+- GraphQL
+- REST API
+- PostgreSQL
+- MongoDB
+
+📈 I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always seeking new opportunities to learn and grow as a developer.
+
+🤝 Let's connect and collaborate on innovative projects that make a difference in the world!
 
 * 🌍  I'm based in Gahana
 * 🖥️  See my portfolio at [https://portfolio-isaiah-eight.vercel.app/](http://portfolio-isaiah-eight.vercel.app/)
