@@ -23,6 +23,7 @@ I'm a dedicated Backend Developer with expertise in TypeScript, NodeJS, and Nest
 - REST API
 - PostgreSQL
 - MongoDB
+- React 
 
 📈 I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always seeking new opportunities to learn and grow as a developer.
 
