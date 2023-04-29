@@ -10,20 +10,10 @@
 Hi 👋 My name is Opoku Isaiah Clifford
 ======================================
 
-Backend Developer  |  TypeScript  |  NodeJS |NestJS
+ Software  Developer |  TypeScript  |  NodeJS |NestJS
 --------------------------------------------
-I'm a dedicated Backend Developer with expertise in TypeScript, NodeJS, and NestJS. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
+I'm a dedicated Software  Developer with expertise in TypeScript, NodeJS, React, and NestJS. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
 
-### 💻 My tech stack includes:
-
-- TypeScript
-- NodeJS
-- NestJS
-- GraphQL
-- REST API
-- PostgreSQL
-- MongoDB
-- React 
 
 📈 I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always seeking new opportunities to learn and grow as a developer.
 
