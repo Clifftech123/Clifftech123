@@ -20,7 +20,7 @@ I'm a dedicated Software  Developer with expertise in TypeScript, NodeJS, React,
 🤝 Let's connect and collaborate on innovative projects that make a difference in the world!
 
 * 🌍  I'm based in Gahana
-* 🖥️  See my portfolio at [https://portfolio-isaiah-eight.vercel.app/](http://portfolio-isaiah-eight.vercel.app/)
+* 🖥️  See my portfolio at [https://portfolio-isaiah.vercel.app/](https://portfolio-isaiah.vercel.app/)
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 🤝  I'm open to collaborating on Javascript and TypeScript Projects
 
