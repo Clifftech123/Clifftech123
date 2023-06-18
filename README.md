@@ -69,6 +69,7 @@ I'm a dedicated Software  Developer with expertise in TypeScript, NodeJS, React,
 * [Object Oriented Programming with Typescript](https://dev.to/cliff123tech/oop-typescript-jk4)
 * [Mastering Async Programming in TypeScript: Promises, Async/Await, and Callbacks](https://dev.to/cliff123tech/mastering-async-programming-in-typescript-promises-asyncawait-and-callbacks-148b)
 * [Mastering Functions in TypeScript: A Comprehensive Guide](https://dev.to/cliff123tech/mastering-functions-in-typescript-a-comprehensive-guide-4fmo)
+* [JavaScript from Beginner to Master Tutorial Series ](https://dev.to/cliff123tech/series/23246)
 
 <!-- BLOG-POST-LIST:END -->
 
