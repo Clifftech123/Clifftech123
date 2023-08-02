@@ -7,12 +7,12 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
        </a>
 
-Hi 👋 My name is Opoku Isaiah Clifford
+Hi 👋 My name is Isaiah Clifford Opoku
 ======================================
 
  Software  Developer  | React |  TypeScript  |  NodeJS 
 --------------------------------------------
-I'm a dedicated Software  Developer with expertise in TypeScript, NodeJS, React, and NestJS. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
+I'm a dedicated Software  Developer with TypeScript, NodeJS, and React. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
 
 
 📈 I'm committed to staying up-to-date with the latest industry trends and technologies, and I'm always seeking new opportunities to learn and grow as a developer.
