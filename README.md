@@ -10,7 +10,7 @@
 Hi 👋 My name is Isaiah Clifford Opoku
 ======================================
 
- Software  Developer  | React |  TypeScript  |  NodeJS | .NET | C#
+ Software  Developer  | React |  TypeScript  | .NET | C#
 --------------------------------------------
 I'm a dedicated Software  Developer with TypeScript, NodeJS, C# .NET, and React. My passion lies in developing efficient, scalable, and maintainable applications that meet the needs of clients and users alike.
 
