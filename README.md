@@ -19,7 +19,7 @@ I'm a dedicated Software  Developer with TypeScript, NodeJS, C# .NET, and React.
 
 🤝 Let's connect and collaborate on innovative projects that make a difference in the world!
 
-* 🌍  I'm based in Gahana
+* 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [https://portfolio-isaiah.vercel.app/](https://portfolio-isaiah.vercel.app/)
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 🤝  I'm open to collaborating on Javascript and TypeScript Projects
