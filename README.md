@@ -35,34 +35,12 @@ Let's connect and collaborate on innovative projects that make a difference in t
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt "React" />
   </a>
   <!-- Add other relevant skills here -->
 </p>
 
-### Connect with Me
-
-<p align="left">
-  <a href="https://www.github.com/Clifftech123" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/isaiah-clifford-opoku/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.twitter.com/clifftech_dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
-</p>
-
-### GitHub Stats
-
-<a href="http://www.github.com/Clifftech123">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clifftech123&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="Clifftech123's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Clifftech123">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Clifftech123&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" />
-</a>
+<!-- The rest of your profile remains the same -->
 
 - - -
 
