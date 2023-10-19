@@ -8,16 +8,16 @@
 
 # Isaiah Clifford Opoku
 
-## Software Developer | React | TypeScript | Python | Django
+## Software Developer | React | TypeScript | C# | .NET
 
-Hi there! I'm Isaiah Clifford Opoku, a passionate Software Developer skilled in React, TypeScript, Python, and Django. I specialize in crafting efficient, scalable, and maintainable applications to meet the diverse needs of clients and users. My commitment extends to staying up-to-date with the latest industry trends and technologies.
+Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficient in React, TypeScript, C#, and .NET. I specialize in crafting efficient, scalable, and maintainable applications that cater to the diverse needs of clients and users. I'm committed to staying up-to-date with the latest industry trends and technologies.
 
 Let's connect and collaborate on innovative projects that make a difference in the world!
 
 🌍 Based in Ghana
-🖥️ See my portfolio at [https://portfolio-isaiah.vercel.app/](https://portfolio-isaiah.vercel.app/)
+🖥️ Explore my portfolio: [Portfolio](https://portfolio-isaiah.vercel.app/)
 ✉️ Reach out to me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
-🤝 Open to collaborating on  Python and TypeScript Projects
+🤝 Open to collaborating on .NET and TypeScript projects
 
 ### Skills
 
@@ -28,11 +28,8 @@ Let's connect and collaborate on innovative projects that make a difference in t
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
