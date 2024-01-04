@@ -15,7 +15,6 @@ Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficien
 Let's connect and collaborate on innovative projects that make a difference in the world!
 
 🌍 Based in Ghana
-🖥️ Explore my portfolio: [Portfolio](https://portfolio-isaiah.vercel.app/)
 ✉️ Reach out to me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 🤝 Open to collaborating on .NET and TypeScript projects
 
