@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficient in React, TypeScript, C#, and . NET. I specialize in crafting efficient, scalable, and maintainable applications that cater to the diverse needs of clients and users. I'm committed to staying up-to-date with the latest industry trends and technologies.
 
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
-* 🤝  I'm open to collaborating on C# (.NET)and TypeScript
+* 🤝  I'm open to collaborating on C# (.NET)and React  TypeScript
 
 <a href="https://www.x.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
