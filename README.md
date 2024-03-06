@@ -18,7 +18,7 @@ Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficien
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,java,idea,react,ts,redux,kafka,hibernate,postgres,redis,mongodb,azure,visualstudio,vscode,docker&perline=7" />
+    <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,java,idea,react,ts,redux,kafka,hibernate,postgres,redis,mongodb,tailwind,spring,azure,visualstudio,vscode,docker&perline=7" />
   </a>
 </p>
 
