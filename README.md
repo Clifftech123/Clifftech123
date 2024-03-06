@@ -14,9 +14,6 @@ Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficien
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 
 
-<a href="https://www.x.com/Clifftech_Dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a>
 
 ### Skills / Tools
 
