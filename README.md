@@ -15,11 +15,17 @@ Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficien
 
 
 
-### Skills / Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cs,dotnet,java,idea,react,ts,redux,kafka,hibernate,postgres,redis,mongodb,azure,visualstudio,vscode,docker&perline=8" />
+  </a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cs,docker,dotnet,java,idea,react,ts,redux,kafka,hibernate,visualstudio)](https://skillicons.dev)
 
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Clifftech123&label=Profile%20views&color=0e75b6&style=flat" alt="Clifftech123" />
+</p>
 
 
 
