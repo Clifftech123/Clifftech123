@@ -20,7 +20,7 @@ src="https://img.shields.io/twitter/follow/Clifftech_Dev?logo=twitter&style=for-
 
 ### Skills / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=aws,cs,docker,dotnet,java,idea,react,ts,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cs,docker,dotnet,java,idea,react,ts,redux,kafka,hibernate,visualstudio)](https://skillicons.dev)
 
 
 
