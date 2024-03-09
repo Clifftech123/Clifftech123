@@ -24,7 +24,7 @@ Hello there! I'm Isaiah Clifford Opoku, a dedicated Software Developer proficien
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Clifftech123&label=Profile%20views&color=0e75b6&style=flat" alt="Clifftech123" />
+  <img src="https://komarev.com/ghpvc/?username=Clifftech123&label=Profile%20views&color=blue&style=flat" alt="Clifftech123" />
 </p>
 
 
