@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Software Engineer and Technical Writer
 ---------------------------------------------------
 
-Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in React, TypeScript, C#, Java, Spring Boot, and .NET. With a focus on crafting efficient and scalable applications, I stay abreast of industry trends. I welcome the opportunity to connect and discuss potential collaborations.
+Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in React, TypeScript, C#, and . NET. With a focus on crafting efficient and scalable applications, I stay abreast of industry trends. I welcome the opportunity to connect and discuss potential collaborations.
 
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 👯 I’m looking to collaborate on Web Apps(Backend/Frontend)
