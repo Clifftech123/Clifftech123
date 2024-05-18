@@ -1,5 +1,5 @@
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_white_.png)
+![](https://github.com/Clifftech123/web-resource/blob/c2be05b9cce1e13f47345e0e299174448566f3e1/image/Navy%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Isaiah Clifford Opoku 
 =============================================================================================================================================
