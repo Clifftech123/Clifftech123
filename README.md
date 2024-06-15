@@ -14,6 +14,16 @@ Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in Re
 * 👯 I’m looking to collaborate on Web Apps(Backend/Frontend)
 
 
+ If you're interested in learning more about the following topics, be sure to check out my YouTube channel:
+
+## Topics I Cover:
+- C#
+- Azure
+- Blazor
+- .NET
+
+Visit my YouTube channel to dive deeper into these subjects: [Your YouTube Channel](https://www.youtube.com/channel/UCkV7ascroJ3H8ge0PojzuBA)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
