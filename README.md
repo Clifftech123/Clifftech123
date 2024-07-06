@@ -8,7 +8,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Software Engineer and Technical Writer
 ---------------------------------------------------
 
-Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in React, TypeScript, C#, and . NET. With a focus on crafting efficient and scalable applications, I stay abreast of industry trends. I welcome the opportunity to connect and discuss potential collaborations.
+Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in React, TypeScript, C#, java, Spring boot,  and. NET. With a focus on crafting efficient and scalable applications, I stay abreast of industry trends. I welcome the opportunity to connect and discuss potential collaborations.
 
 * ✉️  You can contact me at [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)
 * 👯 I’m looking to collaborate on Web Apps(Backend/Frontend)
@@ -28,7 +28,7 @@ Visit my YouTube channel to dive deeper into these subjects: [Your YouTube Chann
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,react,ts,redux,postgres,mongodb,tailwind,visualstudio,postman,vscode,docker,&perline=7" />
+    <img src="https://skillicons.dev/icons?i=azure,cs,dotnet,spring,postgres,idea,react,ts,redux,postgres,mongodb,tailwind,visualstudio,postman,vscode,docker,&perline=7" />
   </a>
 </p>
 
