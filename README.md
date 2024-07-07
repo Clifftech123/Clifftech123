@@ -20,7 +20,9 @@ Hello, I'm Isaiah Clifford Opoku, a seasoned Software Developer proficient in Re
 - C#
 - Azure
 - Blazor
-- .NET
+- ASP.NET CORE
+-  Web Api
+  
 
 Visit my YouTube channel to dive deeper into these subjects: [Your YouTube Channel](https://www.youtube.com/channel/UCkV7ascroJ3H8ge0PojzuBA)
 
