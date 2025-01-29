@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello! I'm **Isaiah Clifford Opoku**, a passionate **Software Engineer** with expertise in **React, TypeScript, C#, and .NET**. I specialize in building **efficient, scalable, and modern web applications**, keeping up with industry trends to deliver high-quality solutions.  
 
-I'm always open to **collaborations on web applications**, whether it's **frontend, backend, or full-stack development**. Feel free to reach out—let's build something great together!  
+I'm always open to collaborations on web applications, whether frontend, backend, or full-stack development. Feel free to reach out let's build something great together!  
 
 📧 **Contact Me:** [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)  
 🤝 **Looking to collaborate on:** Web Apps (Backend & Frontend)  
