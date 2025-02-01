@@ -14,7 +14,6 @@ I'm always open to collaborations on web applications, whether frontend, backend
 📧 **Contact Me:** [opokuisaiahclifford123@gmail.com](mailto:opokuisaiahclifford123@gmail.com)  
 🤝 **Looking to collaborate on:** Web Apps (Backend & Frontend)  
 
----
 
 ## 🎥 Explore My YouTube Channel  
 
